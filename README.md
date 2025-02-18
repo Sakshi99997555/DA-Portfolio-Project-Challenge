@@ -1,52 +1,48 @@
+# 🚀 Data Analysis Portfolio Project Challenge 🎯 
 
+# 📊 Lung Cancer Data Analysis Project
 
-# 🚀 Data Analysis Portfolio Project Challenge 🎯
-🔥 Level Up Your Data Analysis Skills with SQL, Power BI, Tableau & Excel!
-Welcome to the Data Analysis Portfolio Project Challenge! This challenge is designed to help you gain hands-on experience with real-world datasets and industry-level data analysis techniques. Whether you're a beginner or an experienced analyst, this challenge will help you sharpen your skills and build an impressive portfolio.
+## 📂 Project Structure
 
-🎯 What’s the Challenge About?
-In this challenge, you’ll:
-✅ Work on a real-world dataset 📊
-✅ Use tools like SQL, Power BI, Tableau, and Excel 🔥
-✅ Learn data cleaning, transformation, and visualization 🎨
-✅ Gain insights through industry-level analysis 💡
-✅ Showcase your work in your portfolio & GitHub 🚀
+```
+|-- Dashboard/  
+|   |-- lung_cancer.pbix          # Power BI dashboard for lung cancer analysis  
+|   |-- lung_cancer.pdf           # Report or documentation related to the dashboard  
+|  
+|-- SQL/  
+|   |-- basic.sql                 # Basic SQL queries for data extraction  
+|   |-- intermediate.sql          # Intermediate SQL queries for analysis  
+|   |-- hard.sql                  # Advanced SQL queries for complex analysis  
+|   |-- lung_cancer_fixed.sql      # SQL script with corrections or optimizations  
+|  
+|-- lung_cancer_Dataset.csv       # Raw dataset used for lung cancer analysis  
+|-- PPT - Data Analysis Portfolio Project Challenge.pptx  # Presentation template  
+|-- Questions.txt                 # List of questions related to the project  
+|-- README.md                     # Project overview and instructions  
+|-- Report - Data Analysis Resume Project Challenge.pdf  # Detailed report  
+|-- SQL.md                        # Documentation or notes on SQL queries used  
+```
 
-🛠 Tech Stack You Can Use
-🔹 SQL – For data extraction & transformation
-🔹 Power BI – For dynamic dashboards & insights
-🔹 Tableau – For interactive storytelling
-🔹 Excel – For data manipulation & reporting
+## 📌 Project Overview  
+This project focuses on analyzing lung cancer data using Power BI for visualization and SQL for data extraction, transformation, and analysis. The dataset provides insights into lung cancer cases, patient attributes, and risk factors.
 
-📌 Who Can Participate?
-👩‍💻 Beginners & aspiring analysts who want to build a strong portfolio
-📊 Students & professionals looking to upskill
-🚀 Data enthusiasts eager to work on industry-relevant projects
+## 🚀 Key Components  
+🔹 **Power BI Dashboard**: Interactive visualization of lung cancer data.  
+🔹 **SQL Scripts**: Queries for data extraction, transformation, and analysis.  
+🔹 **Reports & Documentation**: Insights, methodologies, and findings.  
 
-🏆 How to Participate?
-1️⃣ Fork this repository & star ⭐ it!
-2️⃣ Choose a dataset or use the one provided 📂
-3️⃣ Clean, analyze & visualize the data using your preferred tool 🔍
-4️⃣ Document your process & insights in a README or Jupyter Notebook 📝
-5️⃣ Share your project by creating a pull request 🔄
+## 📊 How to Use  
+1. **Power BI Dashboard**  
+   - Open `lung_cancer.pbix` in Power BI to explore the visualizations.  
 
-🎯 Project Guidelines
-🔹 Define a business problem & objectives 📌
-🔹 Perform data cleaning & transformation 🛠
-🔹 Use SQL, Power BI, Tableau, or Excel for analysis & visualization 🎨
-🔹 Provide actionable insights & recommendations 📊
-🔹 Make your project structured & easy to follow 🏗
+2. **SQL Analysis**  
+   - Run SQL scripts in the `SQL/` folder to analyze the dataset.  
 
-🚀 Why Join?
-✅ Industry-level experience on real-world projects
-✅ Enhance your portfolio & GitHub profile
-✅ Boost your resume & career prospects
-✅ Get recognized for your analytical skills
+3. **Reports & Documentation**  
+   - Read `Report - Data Analysis Resume Project Challenge.pdf` for detailed analysis.  
+   - Refer to `SQL.md` for explanations on SQL queries.  
 
-🎯 Get Started Now!
-Click Fork & Start the Challenge → 🚀🚀🚀
+---
 
-💡 Need help? Connect with me on LinkedIn[https://www.linkedin.com/in/sakshimogal/] or drop a message!
-
-🔥 Let’s analyze, visualize & innovate together! 🔥
-
+✅ **Author**: *Anidipta Pal*  
+📅 **Last Updated**: *18-02-2025*   
