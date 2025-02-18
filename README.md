@@ -16,7 +16,7 @@
 |   |-- lung_cancer_fixed.sql      # SQL script with corrections or optimizations  
 |  
 |-- lung_cancer_Dataset.csv       # Raw dataset used for lung cancer analysis  
-|-- PPT format for Data Analysis Portfolio Project Challenge.pptx  # Presentation template  
+|-- PPT - Data Analysis Portfolio Project Challenge.pptx  # Presentation template  
 |-- Questions.txt                 # List of questions related to the project  
 |-- README.md                     # Project overview and instructions  
 |-- Report - Data Analysis Resume Project Challenge.pdf  # Detailed report  
