@@ -68,11 +68,7 @@ SELECT COUNT(*) FROM lung_cancer_data WHERE Air_Pollution_Exposure = 'High';
 
 #### 6️⃣ Find the top 5 countries with the highest lung cancer deaths.
 ```sql
-SELECT Country, SUM(Annual_Lung_Cancer_Deaths) AS Total_Deaths
-FROM lung_cancer_data
-GROUP BY Country
-ORDER BY Total_Deaths DESC
-LIMIT 5;
+SELECT Country, SUM(Annual_Lung_Cancer_Deaths) AS Total_Deaths FROM lung_cancer_data GROUP BY Country ORDER BY Total_Deaths DESC LIMIT 5;
 ```
 
 #### 7️⃣ Count the number of people diagnosed with lung cancer by gender.
@@ -91,9 +87,7 @@ SELECT * FROM lung_cancer_data WHERE Age > 60 AND Lung_Cancer_Diagnosis = 'Yes';
 
 #### 1️⃣ Find the percentage of smokers who developed lung cancer.
 ```sql
-SELECT (COUNT(*) * 100.0 / (SELECT COUNT(*) FROM lung_cancer_data)) AS Percentage_Smokers_With_Lung_Cancer
-FROM lung_cancer_data
-WHERE Smoker = 'Yes' AND Lung_Cancer_Diagnosis = 'Yes';
+SELECT (COUNT(*) * 100.0 / (SELECT COUNT(*) FROM lung_cancer_data)) AS Percentage_Smokers_With_Lung_Cancer FROM lung_cancer_data WHERE Smoker = 'Yes' AND Lung_Cancer_Diagnosis = 'Yes';
 ```
 
 #### 2️⃣ Calculate the average survival years based on cancer stages.
