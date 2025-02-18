@@ -46,7 +46,3 @@ This project focuses on analyzing lung cancer data using Power BI for visualizat
 
 ✅ **Author**: *Anidipta Pal*  
 📅 **Last Updated**: *18-02-2025*   
-
-```  
-
-This README provides a structured and professional overview of your project. Let me know if you’d like any changes! 🚀
