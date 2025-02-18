@@ -1,15 +1,5 @@
 # 📌 Answers - SQL Queries
 
-## 📖 Table of Contents
-1. [Introduction](#introduction)
-2. [Table Schema](#table-schema)
-3. [SQL Queries](#sql-queries)
-   - [Basic Level](#basic-level)
-   - [Intermediate Level](#intermediate-level)
-   - [Advanced Level](#advanced-level)
-
----
-
 ## 🔍 Introduction
 This repository contains all the SQL queries answers.
 
