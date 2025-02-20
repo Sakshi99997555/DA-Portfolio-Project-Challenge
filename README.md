@@ -90,12 +90,20 @@ Lung cancer is a leading cause of death globally. The aim of this analysis is to
 
 ---
 
-## 📊 Dashboards & Visualizations
-✅ **Lung Cancer Overview Dashboard**  
-✅ **Smoking and Risk Factors Dashboard**  
-✅ **Treatment & Survival Analysis Dashboard**  
+## 📊 [Dashboards](Dashboards/) & Visualizations
+✅ **Lung Cancer Overview Dashboard :**
 
-📸 *Screenshots of dashboards available in the Dashboards folder.*
+![Dashboard Screenshot](Dashboards/Dashboard-Lung_Cancer_Overview.png)
+
+✅ **Smoking and Risk Factors Dashboard :** 
+
+![Dashboard Screenshot](Dashboards/Dashboard-Smoking_and_Risk_Factors.png)
+
+✅ **Treatment & Survival Analysis Dashboard :** 
+
+![Dashboard Screenshot](Dashboards/Dashboard-Treatment_&_Survival_Analysis.png)
+
+📸 *Screenshots of dashboards are also available in the Dashboards folder.*
 
 ---
 
